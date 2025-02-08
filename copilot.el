@@ -147,7 +147,7 @@ find indentation offset."
 (defvar copilot--server-executable nil
   "The dist directory containing agent.js file.")
 
-(defcustom copilot-version "1.27.0"
+(defcustom copilot-version "1.41.0"
   "Copilot version.
 
 The default value is the preferred version and ensures functionality.
